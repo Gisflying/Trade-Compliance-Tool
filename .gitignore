@@ -1,0 +1,6 @@
+# Ignore all system files and directories
+$Recycle.Bin/
+System Volume Information/
+Windows/
+Program Files/
+Program Files (x86)/
